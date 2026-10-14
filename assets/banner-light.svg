@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320"><rect width="1200" height="320" fill="#F4EFE6"/>
+<g opacity=".08" stroke="#1B1A17" stroke-width="1"><path d="M0 0V320"/><path d="M60 0V320"/><path d="M120 0V320"/><path d="M180 0V320"/><path d="M240 0V320"/><path d="M300 0V320"/><path d="M360 0V320"/><path d="M420 0V320"/><path d="M480 0V320"/><path d="M540 0V320"/><path d="M600 0V320"/><path d="M660 0V320"/><path d="M720 0V320"/><path d="M780 0V320"/><path d="M840 0V320"/><path d="M900 0V320"/><path d="M960 0V320"/><path d="M1020 0V320"/><path d="M1080 0V320"/><path d="M1140 0V320"/><path d="M0 0H1200"/><path d="M0 60H1200"/><path d="M0 120H1200"/><path d="M0 180H1200"/><path d="M0 240H1200"/><path d="M0 300H1200"/></g>
+<rect x="60" y="60" width="8" height="150" fill="#C8553D"/>
+<text x="90" y="125" fill="#1B1A17" font-size="76" font-weight="bold" font-family="Segoe UI,Tahoma,Arial,sans-serif">Abdo Hagar</text>
+<text x="90" y="180" fill="#4a463d" font-size="30" font-family="Segoe UI,Tahoma,Arial,sans-serif">Tools · Interfaces · Applied Security</text>
+<text x="90" y="222" fill="#4a463d" font-size="22" font-family="Segoe UI,Tahoma,Arial,sans-serif">Python · TypeScript · Windows desktop · Security labs</text>
+<text x="1140" y="125" fill="#1B1A17" font-size="52" font-weight="bold" text-anchor="end" font-family="Segoe UI,Tahoma,Arial,sans-serif">عبده حجر</text>
+<text x="1140" y="180" fill="#C8553D" font-size="26" text-anchor="end" font-family="Segoe UI,Tahoma,Arial,sans-serif">أدوات صغيرة تحل مشكلة واحدة جيداً</text>
+<rect y="296" width="1200" height="24" fill="#2F4B3F"/></svg>
