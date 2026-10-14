@@ -7,7 +7,7 @@
 
 طالب أمن سيبراني ومطوّر واجهات. أحوّل الإزعاج اليومي، مثل ضغط الملفات أو فهم نص أجنبي أو تحميل فيديو، إلى ضغطة زر. أتدرّب على اختبار الاختراق الأخلاقي في مختبر افتراضي معزول.
 
-🌐 **موقعي:** [YOUR-DOMAIN.com](https://YOUR-DOMAIN.com) &nbsp;|&nbsp; 📫 **تواصل:** [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+ **تواصل:** [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
 
 ## 🧰 التقنيات
 
